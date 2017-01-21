@@ -78,11 +78,15 @@ font-size: 14px;
 .l_bline{
 	border-bottom: 1px groove #c8c8c8;
 }
-.left_menu li:hover{
+.left_button:hover{
 	background-color: #ede6e6;
 }
-.left_button li:hover .red{
-	color: red;
+.left_button li{
+	position: relative;
+}
+.left_button p:hover {
+	position: absolute;
+	left: 225px;
 }
 
 .clearfix:after {
