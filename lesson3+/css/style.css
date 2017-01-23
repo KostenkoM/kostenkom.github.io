@@ -2,3 +2,124 @@
 margin: 0;
 padding: 0;
 }
+
+body{
+	background-color: #282828;
+	font-family: Tahoma;
+}
+p{
+	color: white;
+	font-size: 10px;
+}
+.ramki{
+	margin: auto;
+	height: 880px;
+	width: 880px;
+	background-image: url(../img/bg.png);
+	text-decoration: none;
+	position: relative;
+	margin-top: 2%;
+	color: white;
+	font-size: 13px;
+	text-align: center;
+
+
+}
+.head{
+	height: 200px;
+	
+}
+.contacts{
+float: right;
+margin: 150px 85px 0 0;
+text-align: left;
+}
+.logo{
+position: absolute;
+top: 130px;
+left: 70px;
+cursor: pointer;
+z-index: 5;
+text-decoration: none;
+}
+.tree{
+	position: absolute;
+	top: 53px;
+	left: 210px;
+}
+.content{
+clear: both;
+padding: 0 28px 0 28px;
+height: 450px;
+
+}
+
+.content li{
+	float: left;
+	text-align: center;
+	margin: 0 5px 5px 5px;
+	list-style: none;
+}
+.content p{
+	font-size: 15px;
+}
+.India{
+	display: box;
+	background-image: url(../img/India.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+	}
+.india:hover{
+
+
+
+
+}
+.nepal{
+	background-image: url(../img/Nepal.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+}
+.tibet{
+	background-image: url(../img/tibet.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+}
+.bhutan{
+	background-image: url(../img/bhutan.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+}
+.shri{
+	background-image: url(../img/shri.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+}
+.maldi{
+	background-image: url(../img/maldi.png);
+	border: 2px solid #b2b2b2;
+	border-radius: 3px;
+	height: 178px;
+	width: 255px;
+	box-shadow: inset 0px 0px 0px 3px rgba(0,0,0,1);
+}
+.footer{
+	clear: both;
+	margin-top: 200px;
+}
+
