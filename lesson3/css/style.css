@@ -26,6 +26,7 @@ li{
 	height: 40px;
 	margin: 0 40px 40px 40px;
 	background: linear-gradient(to top, #454444, #5e5e5e);
+	-webkit-box-shadow: 0px 0px 1px 1px rgba(181,170,181,1);
 }
 .up_menu li{
 	display: inline-block;
@@ -40,7 +41,6 @@ li{
 }
 .up_menu li:hover{
 	background: linear-gradient(to top, #2f2f2f, #4a4a4a);
-
 	-webkit-box-shadow: 0px 0px 1px 1px rgba(181,170,181,1);
 }
 .centr{
