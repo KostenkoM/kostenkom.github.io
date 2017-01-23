@@ -11,13 +11,15 @@ li{
 }
 .body{
     	background-color: #f9f9f9;
-    	width: 1366px;
+   
     	font-family: OpenSans;   
 }
 .ramki{
-	margin: 0 10%;
+	margin: 0 20%;
 	height: 960px;
+	width: 1094px;
     	-webkit-box-shadow: 0px 0px 28px 1px rgba(181,170,181,1);
+    	background-color: white;
 }
 .head{
 	padding: 40px 0 40px 40px;
