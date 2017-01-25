@@ -1,0 +1,70 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: Tahoma;
+	background-image: url(../img/bg.png);
+}
+li{	
+list-style: none;
+display: inline-block;
+	text-align: center;
+}
+li a{
+	color: white;
+}
+a{
+	text-decoration: none;
+
+}
+.sheet{
+	margin: 0 auto;
+background-color: white;
+height: 1000px;
+width: 1000px;
+
+}
+.sheet{
+	position: relative;
+}
+.head{
+height: 165px;
+color: #128aa7;
+}
+.left{
+		padding-left: 25px;
+}
+.left p{
+	position: absolute;
+	top: 100px;
+	left:65px;
+}
+.right{
+	font-size: 10pt;
+	float:right;
+	margin: 20px 20px 0 0;
+}
+
+.right ul{
+	padding: 20px 5px 0 0;
+}
+.contacts{
+	padding-left: 175px;
+}
+.menu{
+	border: 1px solid black;
+}
+.menu ul{
+	height: 30px;
+	background-color: #323232;
+}
+.bottom{
+	padding: 5px 15px;
+	margin-right: 20px;
+	cursor: pointer;
+}
+.first{
+	margin-left: 5px;
+}
