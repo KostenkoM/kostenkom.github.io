@@ -65,7 +65,7 @@ height: 450px;
 }
 .India{
 	display: box;
-	background-image: url(../img/India.png);
+	background-image: url(../img/india.png);
 	border: 2px solid #b2b2b2;
 	border-radius: 3px;
 	height: 178px;
@@ -79,7 +79,7 @@ height: 450px;
 
 }
 .nepal{
-	background-image: url(../img/Nepal.png);
+	background-image: url(../img/nepal.png);
 	border: 2px solid #b2b2b2;
 	border-radius: 3px;
 	height: 178px;
