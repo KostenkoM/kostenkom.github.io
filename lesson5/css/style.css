@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-color: #282828;
+
+}
+.window{
+	position: relative;
+	height: 1065px;
+	width: 1210px;
+	margin: 5% auto;
+}
+.header{
+	background-color: #085596;
+	height: 36px;
+	padding-right: 20px;
+}
+.Button_1{
+	float: right;
+	margin: 3px 0 3px 0;
+	padding: 0 10px 0 10px;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+}
+.flag{
+	float: right;
+	margin-top: 5px;
+}
+.picture{
+	background-image: url(../img/bg.jpg);
+	width: 1210px;
+	height: 1028px;
+	position: relative;
+}
+.registration{
+	position: absolute;
+	top: 20%;
+	left: 30%;
+	height: 615px;
+	width: 560px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.reg_head{
+	height: 65px;
+	border-bottom: 1px solid white;
+}
+.reg_head p{
+	line-height: 65px;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+}
