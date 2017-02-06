@@ -11,12 +11,12 @@ body{
 	background-color: #282828;
 	background-image: url(../img/bg.jpg);
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 .bg{
 
 }
 .header{
-	position: absolute;
 	height: 40px;
 	width: 100%;
 	background-color: #074f8e;
