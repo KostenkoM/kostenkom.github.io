@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+table{
+	border-spacing: 10px;
+}
+td{
+	width: 30px;
+	background-color: white;
+}
+body{
+	background-color: #000;
+}
+.position{
+	position: absolute;
+	top: 20%;
+	left: 35%;
+
+	}
+.red{
+	background-color: #fd573a;
+}
+.yellow{
+	background-color: #ffee58;
+}
+.black{
+	background-color: #0f0f0f;
+}
+.blue{
+	background-color: #114283;
+}
+.first{
+	height: 45px;
+}
+.second{
+	height: 125px;
+}
+.third{
+	height: 125px;
+}
+.fourth{
+	height: 60px;
+}
+.fifth{
+	height: 60px;
+}
+.six{
+	height: 30px;
+}
+.seven{
+	height: 30px;
+}
